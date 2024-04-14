@@ -1,0 +1,21 @@
+@import url("styles/header.css");
+@import url("styles/painel.css");
+@import url("styles/vagas.css");
+@import url("styles/comentarios.css");
+@import url("styles/novidades.css");
+
+:root {
+    --preto: #3a404E;
+    --fonte-principal:'Inter';
+    --cinza: #667085;
+    --branco: #FFFFFF;
+    --vermelhofechado: #8e2424;
+}
+
+body{
+    background-color: ;
+    font-family: var(--fonte-principal);
+    margin-left: 5px;
+    margin-right: 5px;
+    
+}

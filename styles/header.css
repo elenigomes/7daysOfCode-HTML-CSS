@@ -1,0 +1,50 @@
+.container__cabecalho{
+    display: flex;
+    justify-content: space-around ;
+    align-items: center;
+    font-family: var(--fonte-principal);
+    margin-top: 1.5em;
+}
+
+.container__cabecalho a{
+    text-decoration: none;
+}
+
+.conteiner__logo{
+    display: flex;
+    align-items: center;
+    gap: 0.5em;   
+}
+
+.conteiner__logo a{
+    color: var(--preto);
+    font-size: 18px;
+}
+
+.container__lista{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.container__login-entrar,
+.opcoes__lista__item a{
+    padding: 1em;
+    color: var(--cinza);
+    font-size: 16px;
+}
+
+input{
+    border: transparent;
+}
+.container__login a{
+    padding: 1em;
+    text-decoration: none;
+}
+
+.container__login-cadastrar{
+    color: var(--branco);
+    border: 0em transparent;
+    background-color: var(--vermelhofechado);
+    border-radius: 8px;
+}
+

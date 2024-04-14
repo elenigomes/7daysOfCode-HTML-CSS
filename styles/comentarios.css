@@ -1,0 +1,39 @@
+.bainner__comentários{
+    text-align: center;
+    margin: 7em 14em;
+}
+
+.comentários{}
+
+.comentários_titulo{
+    color: var(--vermelhofechado);
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.comentários_comentário{
+    color: var(--preto);
+    font-size: 36px;
+    font-weight: bold;
+    padding: 0.7em;
+}
+
+#comentario{
+    margin: 0.5em 0;
+}
+
+.comentários_identificacao{
+    color: var(--preto);
+    font-size: 16px;
+    font-weight: 500;
+    padding: 1em;
+}
+
+.comentários_identificacao-cargo{
+    font-size: 14px;
+    color: var(--cinza);
+    font-weight: 400;
+    
+}
+
+

@@ -1,0 +1,82 @@
+.bainner__painel-de-vagas{
+    text-align: center;
+    margin: 5px 14px;
+    font-family: var(--fonte-principal);
+
+}
+
+.painel-de-vagas{
+    padding: 5em 5em 3em 5em;
+    
+}
+
+.painel-de-vagas_titulo{
+    color: var(--vermelhofechado);
+    font-size: 14px;
+    font-weight: 600;
+
+}
+
+.painel-de-vagas_chamado{
+    color: var(--preto);
+    font-size: 36px;
+    font-weight: bold;
+    padding: 0.7em;
+}
+
+.painel-de-vagas_texto{
+    font-size: 20px;
+    color: var(--cinza);
+    font-weight: 200;
+}
+
+.painel_imagem{
+    margin: 0em 14em;
+}
+
+#reuniao{
+    text-align: center;
+    width: 100%;
+    margin-bottom: 2em;
+}
+
+.vagas{
+    margin: 0em 19em;
+    text-align: justify;
+}
+
+.vagas_ramo{
+    font-size: 20px;
+    font-weight: 600;
+    color: var(--preto);
+    padding-bottom: 1.5em;
+    
+    
+}
+.vagas_atividade {
+    border: 0.07em solid #EAECF0;
+    border-radius: 16px;
+    
+    padding: 1.5em;
+    gap: 24px;
+    margin-bottom: 1.5em;
+}
+.vagas_titulo {
+    font-size: 18px;
+    color: var(--preto);
+    font-weight: 500;
+    padding-bottom: 0.5em;
+}
+
+.vagas_titulo_descricao{
+    list-style-type: ;
+    display: flex;
+    justify-content: flex-start;
+
+}
+.vagas_titulo_descricao_texto{
+    font-size: 16px;
+    color: var(--cinza);
+    font-weight: 400;
+    padding-right: 0.5em;
+}

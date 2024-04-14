@@ -1,0 +1,62 @@
+.bainner__sobre-nos{
+    text-align: center;
+    margin: 7em 14em;
+}
+
+.sobre-nos{
+    font-size: 16px;
+    color: var(--vermelhofechado);
+    font-weight: 600;
+}
+
+.sobre-nos_titulo{
+    font-size: 48px;
+    font-weight: bold;
+    color: var(--preto);
+    padding: 0.7em;
+}
+
+.sobre-nos_texto{
+    font-size: 20px;
+    color: var(--cinza);
+    font-weight: 200;
+}
+
+.bainner__nos-em-numero{
+    display: flex;
+    justify-content: space-between;
+    margin: 0em 14em
+}
+
+.nos-em-numero{
+    gap: ;
+    padding: 5px ;
+    margin: 1em;
+}
+
+.numeros{
+    font-size: 60px;
+    font-weight: bold;
+    color: var(--vermelhofechado);
+    padding-bottom: 0.1em ;
+}
+
+.numeros-titulo{
+    font-size: 18px;
+    font-weight: 500; 
+    padding: 0.8em 0;   
+}
+
+.numeros-texto{
+    font-size: 16px;
+    font-weight: 200;
+    padding: 0.4em 0;
+    color: var(--cinza);
+    line-height: 1.4em;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    display: -webkit-box;
+    -moz-box-orient: vertical;
+    -webkit-line-clamp: 4;
+}
+
